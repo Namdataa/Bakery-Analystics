@@ -83,11 +83,11 @@ The following approach was taken:
     - Remaining Months: Customers tend to buy products during the first 10 days and the last 10 days of the month.
 # Bakery Dashboard
 ## Performance KPIs
-![image](https://github.com/user-attachments/assets/aa1a2f58-3cbb-4df5-b960-4d60298e12b1)
+![image](https://github.com/user-attachments/assets/1673247b-2e23-4c19-bcb2-6fec5d3a53d8)
 
 ## Revenue Overview
-![image](https://github.com/user-attachments/assets/617df1e5-3c6e-4011-b8cb-4268c2708e03)
+![image](https://github.com/user-attachments/assets/4075095e-c5c0-47d4-b0f1-29a02999e1ce)
 
-**Link DB:** https://app.powerbi.com/reportEmbed?reportId=50fe3c23-352f-4e78-a8de-76edb4a791af&autoAuth=true&ctid=5b98a1d4-abc3-42cd-896e-2e1b240dc662
+**Link DB:** https://app.powerbi.com/reportEmbed?reportId=efddb24f-bd73-44ec-b538-91d73f22a7d4&autoAuth=true&ctid=5b98a1d4-abc3-42cd-896e-2e1b240dc662
 
 **Note:** Viewers must use a Microsoft account ending in "due.udn.vn"
