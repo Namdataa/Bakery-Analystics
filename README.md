@@ -15,7 +15,7 @@ Based on the data from A's store, help A have an overview of the store's operati
 ![image](https://github.com/user-attachments/assets/7aa45436-4a74-49be-a526-3fc847749226)
 
 ## Dataset
-https://docs.google.com/spreadsheets/d/138LY5K9qwK0A_NPh8WEn6tZYBxQ4txX0/edit?usp=sharing&ouid=107114307827026185633&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1W8YCvhcn3xP8tNC7ULB7ruSjKsEmv3uRyuIFLJHKZ7s/edit?usp=sharing
 ![image](https://github.com/user-attachments/assets/b74cc551-5ec6-4ad5-a1f0-ca7199d9a5d6)
 
 ## Technology Used
@@ -81,4 +81,13 @@ The following approach was taken:
   - **Buying Patterns by Month**
     - First Seven Months: Customers mainly make purchases during the first half of the month.
     - Remaining Months: Customers tend to buy products during the first 10 days and the last 10 days of the month.
+# Bakery Dashboard
+## Performance KPIs
+![image](https://github.com/user-attachments/assets/aa1a2f58-3cbb-4df5-b960-4d60298e12b1)
 
+## Revenue Overview
+![image](https://github.com/user-attachments/assets/617df1e5-3c6e-4011-b8cb-4268c2708e03)
+
+**Link DB:** https://app.powerbi.com/reportEmbed?reportId=50fe3c23-352f-4e78-a8de-76edb4a791af&autoAuth=true&ctid=5b98a1d4-abc3-42cd-896e-2e1b240dc662
+
+**Note:** Viewers must use a Microsoft account ending in "due.udn.vn"
